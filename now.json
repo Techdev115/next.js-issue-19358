@@ -1,0 +1,10 @@
+{
+  "env": {
+    "PROJECT_KEY": "@integration-marketplace.prod.project_key",
+    "CLIENT_SECRET": "@integration-marketplace.prod.client_secret",
+    "CLIENT_ID": "@integration-marketplace.prod.client_id",
+    "AUTH_URL": "@integration-marketplace.prod.auth_url",
+    "API_URL": "@integration-marketplace.prod.api_url",
+    "SCOPES": "@integration-marketplace.prod.scopes"
+  }
+}
